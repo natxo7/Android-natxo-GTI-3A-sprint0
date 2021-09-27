@@ -1,4 +1,4 @@
-package com.example.natgarse_upv.proyecto3gtia;
+package com.example.natgarse_upv.androidmysql;
 
 import org.junit.Test;
 

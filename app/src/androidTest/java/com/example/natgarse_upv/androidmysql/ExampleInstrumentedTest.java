@@ -1,4 +1,4 @@
-package com.example.natgarse_upv.proyecto3gtia;
+package com.example.natgarse_upv.androidmysql;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.natgarse_upv.proyecto3gtia", appContext.getPackageName());
+        assertEquals("com.example.natgarse_upv.androidmysql", appContext.getPackageName());
     }
 }
